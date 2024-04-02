@@ -1,0 +1,21 @@
+
+--> METRICS
+----------------------------------
+Bubble sort metrics:
+
+Bubble Sort - Max Comparisons: 4.99995E9
+Bubble Sort - Min Comparisons: 4.99995E9
+Bubble Sort - Average Comparisons: 4.99995E9
+Bubble Sort - Max Swaps: 2.512902454E9
+Bubble Sort - Min Swaps: 2.486770501E9
+Bubble Sort - Average Swaps: 2.49861737632E9
+
+----------------------------------
+Selection sort metrics:
+
+Selection Sort - Max Comparisons: 4.99995E9
+Selection Sort - Min Comparisons: 4.99995E9
+Selection Sort - Average Comparisons: 4.99995E9
+Selection Sort - Max Swaps: 99999.0
+Selection Sort - Min Swaps: 99999.0
+Selection Sort - Average Swaps: 99999.0
